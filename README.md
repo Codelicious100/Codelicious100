@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <iframe src="https://giphy.com/embed/poLgZEMJjr93yIlYoc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/freakmeaning-freak-meaning-fre4k-among-us-poLgZEMJjr93yIlYoc">via GIPHY</a></p>
+    <img src="https://raw.githubusercontent.com/username/repository/master/path-to-giphy.gif" width="480" height="480"/>
+    <p><a href="https://giphy.com/stickers/freakmeaning-freak-meaning-fre4k-among-us-poLgZEMJjr93yIlYoc">via GIPHY</a></p>
 </h1>
 
 - 🌱 I’m currently learning prompt engineering
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center">Life is short (You need Python). Bruce Eckel</p>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="[https://user-images.githubusercontent.com/72185011/158189389-6d6cf2e9-f001-4f40-9d3c-54af4fc811bc.png](https://banner2.cleanpng.com/20180329/vke/kisspng-python-high-level-programming-language-language-5abd4cc0d3dc94.7432282215223553928678.jpg)" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/username/repository/master/path-to-python-logo.jpg" alt="python" width="40" height="40"/> 
   </a>
 </p>
 
