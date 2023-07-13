@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/username/repository/master/path-to-giphy.gif" width="480" height="480"/>
-    <p><a href="https://giphy.com/stickers/freakmeaning-freak-meaning-fre4k-among-us-poLgZEMJjr93yIlYoc">via GIPHY</a></p>
+    <p><a href="https://media.giphy.com/media/poLgZEMJjr93yIlYoc/giphy.gif">via GIPHY</a></p>
 </h1>
 
 - 🌱 I’m currently learning prompt engineering
