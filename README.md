@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center">Life is short (You need Python). Bruce Eckel</p>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/username/repository/master/path-to-python-logo.jpg" alt="python" width="40" height="40"/> 
+    <img src="giphy.gf.webp" alt="python" width="40" height="40"/> 
   </a>
 </p>
 
