@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="giphy (2).gif
+    <img src="amongus.gif
 " width="480" height="480"/>
 </h1>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="center">Language</h3>
 <p align="center">Life is short (You need Python). Bruce Eckel</p>
 <p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="python" target="_blank"> 
     <img src="giphy.gf.webp" alt="python" width="40" height="40"/> 
   </a>
 </p>
