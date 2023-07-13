@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </h1>
 
 - 🌱 I’m currently learning prompt engineering 
-- 👯 I’m looking to collaborate on an SaaS project!
+- 🔭 I’m looking to collaborate on an SaaS project!
 - 💬 Don't hesitate to give me a business proposal :)
 - 📫 How to reach me: codelicious.yt@gmail.com
 
