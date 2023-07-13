@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p align="center">Life is short (You need Python). Bruce Eckel</p>
 <p align="center"> 
     <img src="python.gif" alt="python" width="40" height="40"/>
+    <img src="spacemac.gif" alt="python" width="40" height="40"/>
 </p>
 
 
