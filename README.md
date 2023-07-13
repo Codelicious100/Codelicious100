@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="![poLgZEMJjr93yIlYoc](https://github.com/Codelicious100/Codelicious100/assets/129709159/cb1442f8-f088-4c05-a2c0-ec19d69a6457)
+    <img src="giphy (2).gif
 " width="480" height="480"/>
 </h1>
 
