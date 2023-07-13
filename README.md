@@ -27,6 +27,6 @@ Here are some ideas to get you started:
     <img src="python.gif" alt="python" width="40" height="40"/>
     <img src="spacemac.gif" alt="python" width="40" height="40"/>
 </p>
-
+![snake svg](https://github.com/Codelicious100/Codelicious100/blob/output/github-contribution-grid-snake.svg)
 
 
