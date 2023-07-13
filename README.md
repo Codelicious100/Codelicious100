@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img src="![poLgZEMJjr93yIlYoc](https://github.com/Codelicious100/Codelicious100/assets/129709159/cb1442f8-f088-4c05-a2c0-ec19d69a6457)
 " width="480" height="480"/>
-    <p><a href="https://media.giphy.com/media/poLgZEMJjr93yIlYoc/giphy.gif">via GIPHY</a></p>
 </h1>
 
 - 🌱 I’m currently learning prompt engineering
