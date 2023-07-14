@@ -28,4 +28,4 @@ Here are some ideas to get you started:
     <img src="spacemac.gif" alt="python" width="40" height="40"/>
 </p>
 
-![snake gif](https://Codelicious100.github.io/Codelicious100/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Codelicious100/snake_anime/blob/gh-pages/github-contribution-grid-snake.svg)
