@@ -29,3 +29,9 @@ Here are some ideas to get you started: inte
 </p>
 
 ![snake svg](https://github.com/Codelicious100/Codelicious100/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Codelicious100/snake_game/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Codelicious100/snake_game/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Codelicious100/snake_game/blob/output/github-snake.svg" />
+</picture>
