@@ -28,7 +28,7 @@ Here are some ideas to get you started: inte
     <img src="spacemac.gif" alt="python" width="40" height="40"/>
 </p>
 
-![snake svg](https://github.com/Codelicious100/Codelicious100/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/Codelicious100/Codelicious100/blob/main/dist/github-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Codelicious100/snake_game/blob/output/github-snake-dark.svg" />
