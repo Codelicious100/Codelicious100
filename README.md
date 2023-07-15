@@ -27,11 +27,3 @@ Here are some ideas to get you started: inte
     <img src="python.gif" alt="python" width="40" height="40"/>
     <img src="spacemac.gif" alt="python" width="40" height="40"/>
 </p>
-
-![Snake Game](https://github.com/Codelicious100/Codelicious100/blob/main/dist/github-snake.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Codelicious100/snake_game/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Codelicious100/snake_game/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Codelicious100/snake_game/blob/output/github-snake.svg" />
-</picture>
