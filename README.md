@@ -18,7 +18,7 @@ Here are some ideas to get you started: inte
     <img src="universe.gif" height="40"/>
     <img src="amongus.gif" height="40"/>
     <img src="shoot.gif" height="40"/>
-    <img src="letmein.gif" height="40"/>
+    <img src="letme.gif" height="40"/>
     <img src="lookaround.gif" height="40"/>
 </h1>
 
