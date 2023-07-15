@@ -34,7 +34,7 @@ Here are some ideas to get you started: inte
 <h3 align="center">Language</h3>
 <p align="center">Life is short (You need Python). Bruce Eckel</p>
 <p align="center"> 
-    <img src="specesuit.gif" alt="python" width="40" height="40"/>
+    <img src="spacesuit.gif" alt="python" width="40" height="40"/>
     <img src="python.gif" alt="python" width="40" height="40"/>
     <img src="spacemac.gif" alt="python" width="40" height="40"/>
 </p>
