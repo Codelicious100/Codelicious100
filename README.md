@@ -13,12 +13,12 @@ Here are some ideas to get you started: inte
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="letme.gif" height="40"/>
+    <img src="escape.gif" height="40"/>
     <img src="slice.gif" height="40"/>
     <img src="universe.gif" height="40"/>
     <img src="amongus.gif" height="40"/>
     <img src="shoot.gif" height="40"/>
-    <img src="escape.gif" height="40"/>
+    <img src="letmein.gif" height="40"/>
     <img src="lookaround.gif" height="40"/>
 </h1>
 
