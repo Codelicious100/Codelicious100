@@ -26,10 +26,7 @@ Here are some ideas to get you started: inte
     <img src="run.gif" height="40"/>
 </h1>
 
-- 🌱 I’m currently working on prompt engineering 
-- 🔭 I’m looking to collaborate on an SaaS project!
-- 💬 Don't hesitate to give me a business proposal :)
-- 📫 How to reach me: codelicious.yt@gmail.com
+
 
 <h3 align="center">Language</h3>
 <p align="center">Life is short (You need Python). Bruce Eckel</p>
